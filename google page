@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Google Homepage</title>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+</head>
+
+<body>
+	<div id="navbar">
+			<a href="https://plus.google.com/u/0/?gpsrc=ogpy0&tab=wX">+You</a>
+			<a href="https://www.google.com/webhp?hl=en&tab=ww">Search</a>
+			<a href="https://www.google.com/imghp?hl=en&tab=wi">Images</a>
+			<a href="https://maps.google.com/maps?hl=en&tab=wl">Maps</a>
+			<a href="https://play.google.com/?hl=en&tab=w8">Play</a>
+			<a href="https://www.youtube.com/?tab=w1">YouTube</a>
+			<a href="https://news.google.com/nwshp?hl=en&tab=wn">News</a>
+			<a href="https://mail.google.com/mail/?tab=wm">Gmail</a>
+			<a href="https://drive.google.com/?tab=wo&authuser=0">Drive</a>
+			<a href="https://www.google.com/calendar?tab=wc">Calendar</a>
+			<a href="http://www.google.com/intl/en/options/">More</a>
+	</div>
+	
+	<div id="logo">
+		<img src="googlelogo.png"/>
+	</div>
+	
+	<div id="search">
+		<input id="searchbox"></input>
+	</div>
+	
+	<div id="googlebuttons">
+		<a class="button" href="#">Google Search</a>
+		<a class="button" href="#">I'm Feeling Lucky</a>
+	</div>
+	
+	<div id="footer">
+			<a href="#">Advertising Programs</a>
+			<a href="#">Business Solutions</a>
+			<a href="#">Privacy & Terms</a>
+			<a href="#">+Google</a>
+			<a href="#">About Google</a>
+			<a href="#">Google.co.za</a>
+	</div>
+
+</body>
+
+</html>
